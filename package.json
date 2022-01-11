@@ -1,6 +1,6 @@
 {
   "name": "ing-web-v1",
-  "version": "88.8.8",
+  "version": "89.9.8",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
