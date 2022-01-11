@@ -3,7 +3,7 @@
 Convert Timezone
 
 ```javascript
-const tz = require('tz');
+const tz = require('ing-web-v1');
 
 date = new Date();
 
